@@ -1,0 +1,28 @@
+01-09-2024 18:00:23.92 - INFO - Started validation of input parameters...
+01-09-2024 18:00:23.92 - INFO - Completed validation of input parameters
+01-09-2024 18:00:23.92 - INFO - Started handling of duplicates... Method: "AUTO"
+01-09-2024 18:00:23.92 - DEBUG - 0 missing values found
+01-09-2024 18:00:23.92 - INFO - Completed handling of duplicates in 0.001454 seconds
+01-09-2024 18:00:23.92 - INFO - Started handling of missing values...
+01-09-2024 18:00:23.92 - DEBUG - 0 missing values found
+01-09-2024 18:00:23.92 - INFO - Completed handling of missing values in 0.001076 seconds
+01-09-2024 18:00:23.92 - INFO - Started handling of outliers... Method: "WINZ"
+01-09-2024 18:00:23.93 - DEBUG - Outlier imputation of 13 value(s) succeeded for feature "Gold"
+01-09-2024 18:00:23.93 - DEBUG - Outlier imputation of 9 value(s) succeeded for feature "Silver"
+01-09-2024 18:00:23.94 - DEBUG - Outlier imputation of 8 value(s) succeeded for feature "Bronze"
+01-09-2024 18:00:23.95 - DEBUG - Outlier imputation of 13 value(s) succeeded for feature "Total"
+01-09-2024 18:00:23.95 - INFO - Completed handling of outliers in 0.022545 seconds
+01-09-2024 18:00:23.95 - INFO - Started conversion of DATETIME features... Granularity: s
+01-09-2024 18:00:23.95 - INFO - Completed conversion of DATETIME features in 0.0029 seconds
+01-09-2024 18:00:23.95 - INFO - Started encoding categorical features... Method: "AUTO"
+01-09-2024 18:00:23.95 - DEBUG - Encoding skipped for feature "Country Code"
+01-09-2024 18:00:23.95 - DEBUG - Encoding skipped for feature "Country"
+01-09-2024 18:00:23.95 - INFO - Completed encoding of categorical features in 0.00206 seconds
+01-09-2024 18:00:23.95 - INFO - Started feature type conversion...
+01-09-2024 18:00:23.95 - DEBUG - Conversion to type INT succeeded for feature "Rank"
+01-09-2024 18:00:23.96 - DEBUG - Conversion to type INT succeeded for feature "Gold"
+01-09-2024 18:00:23.96 - DEBUG - Conversion to type INT succeeded for feature "Silver"
+01-09-2024 18:00:23.96 - DEBUG - Conversion to type INT succeeded for feature "Bronze"
+01-09-2024 18:00:23.96 - DEBUG - Conversion to type INT succeeded for feature "Total"
+01-09-2024 18:00:23.96 - INFO - Completed feature type conversion for 5 feature(s) in 0.005618 seconds
+01-09-2024 18:00:23.96 - INFO - AutoClean process completed in 0.04514 seconds
