@@ -10,10 +10,14 @@ pip install py-AutoClean
 
 ## Explaination video
 
-
 ## Demo Video
 
-[Download and watch the demo video](assignment_explaination_chirag.mkv)
+<video width="320" height="240" controls>
+  <source src="assignment_explaination_chirag.mkv" type="video/mkv">
+  Your browser does not support the video tag.
+</video>
+
+
 # AI Employee
 
 ## Project Overview
