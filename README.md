@@ -11,7 +11,7 @@ pip install py-AutoClean
 ## Explaination video
 
 
-<video src="https://github.com/codeBunny2022/AI_employee/blob/main/assignment_explaination_chirag.mkv" width="600" height="400" controls>
+<video src="./assignment_explaination_chirag.mkv" width="600" height="400" controls>
   Your browser does not support the video tag.
 </video>
 
