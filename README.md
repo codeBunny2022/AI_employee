@@ -4,7 +4,16 @@ For data preprocessing used AutoClean
 
 Citation-https://github.com/elisemercury/AutoClean.git
 
-```pip install py-AutoClean```
+```
+pip install py-AutoClean
+```
+
+## Explaination video
+
+
+<video src='assignment_explaination_chirag.mkv' width="600" height="400" controls>
+  Your browser does not support the video tag.
+</video>
 
 # AI Employee
 
